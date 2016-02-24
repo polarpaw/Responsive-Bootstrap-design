@@ -1,0 +1,6 @@
+<div class = "row">
+      <div class = "col-xs-4"><label><input type="checkbox" name="personality"> Loving</label></div>
+      <div class = "col-xs-4"><label><input type="checkbox" name="personality"> Lazy</label></div>
+      <div class = "col-xs-4"><label><input type="checkbox" name="personality"> Crazy</label></div>
+    </div>
+    
